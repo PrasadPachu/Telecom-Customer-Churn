@@ -17,3 +17,8 @@ What is the customer profile for a customer that churned, joined, and stayed? Ar
 What seem to be the key drivers of customer churn?
 
 Is the company losing high value customers? If so, how can they retain them?
+
+Dashboard
+
+<img width="808" alt="Screenshot of Dashboard png" src="https://github.com/PrasadPachu/Telecom-Customer-Churn/assets/104089846/756f3b2d-6a29-4041-94ca-82c949fe46cb">
+
