@@ -116,14 +116,14 @@ group by city
 order by Total_Revenue 
 ;
 
--- KPI 5
+-- KPI 5.1
 
 -- Internet_Type
 
 select Internet_Type, round(sum(Total_Revenue),1) As Total_Revenue_by_Internet_Type from telecom_customer_churn
 group by Internet_Type ;
 
--- Kpi 5.1
+-- Kpi 5.2
 
 -- Age wise bin.
 
