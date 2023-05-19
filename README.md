@@ -6,6 +6,8 @@
 
 ** https://www.mavenanalytics.io/
 
+** I have Used MySQl And Power BI to complete this Project.
+
 Churn data for a fictional Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status.
 
 Recommended Analysis
